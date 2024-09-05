@@ -44,6 +44,7 @@ body {
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   color: var(--second-color);
+  background-image: url(https://www.freepik.com/free-vector/gradient-abstract-background_19332030.htm#fromView=keyword&page=1&position=3);
 }
 
 h1, h2, p {
